@@ -1,0 +1,32 @@
+_repo: Fire-Tongue_1159
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rohmer, Sax
+    alias: Ward, Arthur Sarsfield
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '110'
+    url: http://www.gutenberg.org/2009/agents/110
+    wikipedia: http://en.wikipedia.org/wiki/Sax_Rohmer
+description: Detective Paul Harley investigates cases that go beyond your standard-issue
+  crimes and misdemeanors -- his inquiries often veer into the realm of the supernatural.
+  In the novel Fire-Tongue, Harley finds himself up against a shadowy secret society
+  that will stop at nothing to achieve world domination. Will he be able to thwart
+  their nefarious plot before it's too late?
+gutenberg_bookshelf: Crime Fiction
+gutenberg_issued: '1998-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Secret societies -- Fiction'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: Fire-Tongue
+url: http://www.gutenberg.org/ebooks/1159
