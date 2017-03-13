@@ -1,5 +1,8 @@
 _repo: Fire-Tongue_1159
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rohmer, Sax
@@ -14,6 +17,8 @@ description: Detective Paul Harley investigates cases that go beyond your standa
   In the novel Fire-Tongue, Harley finds himself up against a shadowy secret society
   that will stop at nothing to achieve world domination. Will he be able to thwart
   their nefarious plot before it's too late?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1159#Fire-Tongue
 gutenberg_bookshelf: Crime Fiction
 gutenberg_issued: '1998-01-01'
 gutenberg_type: Text
